@@ -13,6 +13,7 @@
 - [ ] [Introduction to YAML (Kunal Kushwaha)](https://youtu.be/IA90BTozdow)
 
 ## Git
+- [ ] [Git and GitHub Tutorial for Beginners (11 Hours)](https://youtu.be/3FKrszHcIsA)
 - [ ] [Git and GitHub crash course (freecodecamp)](https://youtu.be/RGOj5yH7evk)
 - [ ] [Complete Git and GitHub Tutorial (Kunal Kushwaha)](https://youtu.be/apGV9Kg7ics)
 - [ ] [Git for Professionals (freecodecamp)](https://youtu.be/Uszj_k0DGsg)
