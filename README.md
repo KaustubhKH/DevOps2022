@@ -5,8 +5,10 @@
 ## Prerequisites
 - [ ] [Introduction of Linux](https://www.edx.org/course/introduction-to-linux)
 - [ ] [DevOps Prerequisite (freecodecamp)](https://youtu.be/Wvf0mBNGjXY)
-- [ ] [Computer Network (kunal kushwaha)](https://www.youtube.com/watch?v=IPvYjXCsTg8) 
+- [ ] [Computer Network (kunal kushwaha)](https://youtu.be/IPvYjXCsTg8) 
 - [ ] [Golang complete course (techworldwithnana)](https://youtu.be/yyUHQIec83I)
+- [ ] [CCNA || Part=1 || Network Kings](https://youtu.be/rv3QK2UquxM) part 1 is enough ...
+- [ ] [CCNA || Part=2 || Network Kings](https://www.youtube.com/watch?v=Iqh23vVnw_o)
 
 ## YAML
 - [ ] [Introduction to YAML](https://youtu.be/1uFVr15xDGg)
